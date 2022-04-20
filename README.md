@@ -1,3 +1,8 @@
+# Source
+
+This repository is the result of me watching [this crash course](https://www.youtube.com/watch?v=3dHNOWTI7H8) on youtube.
+You can find relevant information [here](https://github.com/bradtraversy/angular-crash-2021).
+
 # AngularPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
