@@ -17,6 +17,36 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": true
+    },
+    {
+      "text": "make task and time textbox empty after saving task",
+      "day": "depends on free time",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "change angular-practice to Task Tracker",
+      "day": "its easy, start with this",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "configure about page accordingly to things done by each of us",
+      "day": "at the end",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "make a filter that shows tasks that have numbers ",
+      "day": "here",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "pencil icon next to the big X, that pops up a window similar to add task, where you can change its text and time",
+      "day": "maybe its the most difficult so take your time",
+      "reminder": false,
+      "id": 8
     }
   ]
 }
